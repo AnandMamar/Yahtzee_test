@@ -1,0 +1,16 @@
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.frmYahtzee.resources
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.Properties.Resources.resources
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.csproj.GenerateResource.cache
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.AssemblyInfoInputs.cache
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.AssemblyInfo.cs
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.csproj.CoreCompileInputs.cache
+D:\TestWork\Yahtzee\Yahtzee\bin\Debug\netcoreapp3.1\Yahtzee.exe
+D:\TestWork\Yahtzee\Yahtzee\bin\Debug\netcoreapp3.1\Yahtzee.deps.json
+D:\TestWork\Yahtzee\Yahtzee\bin\Debug\netcoreapp3.1\Yahtzee.runtimeconfig.json
+D:\TestWork\Yahtzee\Yahtzee\bin\Debug\netcoreapp3.1\Yahtzee.runtimeconfig.dev.json
+D:\TestWork\Yahtzee\Yahtzee\bin\Debug\netcoreapp3.1\Yahtzee.dll
+D:\TestWork\Yahtzee\Yahtzee\bin\Debug\netcoreapp3.1\Yahtzee.pdb
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.dll
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.pdb
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\netcoreapp3.1\Yahtzee.genruntimeconfig.cache

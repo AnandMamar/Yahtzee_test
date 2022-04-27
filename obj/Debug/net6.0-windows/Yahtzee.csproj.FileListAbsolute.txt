@@ -1,0 +1,7 @@
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.frmYahtzee.resources
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.Properties.Resources.resources
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.csproj.GenerateResource.cache
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.AssemblyInfoInputs.cache
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.AssemblyInfo.cs
+D:\TestWork\Yahtzee\Yahtzee\obj\Debug\net6.0-windows\Yahtzee.csproj.CoreCompileInputs.cache
